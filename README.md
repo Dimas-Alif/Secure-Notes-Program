@@ -43,4 +43,4 @@ Aplikasi ini fokus pada keamanan untuk menyimpan catatan terenkripsi, dengan ber
 
 Untuk menjalankan aplikasi, eksekusi file Python:
 ```bash
-python secure_notes.py
+python Secure_Notes.py
