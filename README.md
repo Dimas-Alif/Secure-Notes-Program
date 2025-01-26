@@ -26,8 +26,8 @@ Aplikasi ini fokus pada keamanan untuk menyimpan catatan terenkripsi, dengan ber
 
 1. Clone repository:
     ```bash
-    git clone https://github.com/Dimas-Alif/secure-notes.git
-    cd secure-notes
+    git clone https://github.com/Dimas-Alif/Secure-Notes-Program.git
+    cd Secure-Notes-Program
     ```
 
 2. Instal dependensi yang dibutuhkan:
